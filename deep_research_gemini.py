@@ -50,7 +50,7 @@ with st.sidebar:
         st.session_state.firecrawl_api_key = firecrawl_api_key
 
 # Main content
-st.title("📘 Google Gemini Deep Research Agent") # Updated title
+st.title("📘 Google Gemini Deep Research Agent By Zaid Rehan") # Updated title
 st.markdown("This Agent performs deep research on any topic using Google Gemini via the `agents` library and Firecrawl") # Updated description
 
 # Research topic input
