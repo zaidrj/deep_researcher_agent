@@ -1,0 +1,12 @@
+[project]
+name = "streamlit-deep-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "firecrawl>=2.7.0",
+    "firecrawl-py>=2.7.0",
+    "openai-agents>=0.0.16",
+    "streamlit>=1.45.1",
+]
