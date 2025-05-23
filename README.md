@@ -28,7 +28,7 @@ A powerful research assistant that leverages OpenAI's Agents SDK and Firecrawl's
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/zaidrj/deep_researcher_agent.git
    ```
 
 2. Install the required packages:
