@@ -16,8 +16,8 @@ from firecrawl import FirecrawlApp
 
 # Set page configuration
 st.set_page_config(
-    page_title="Google Gemini Deep Research Agent By Zaid Rehan", # Updated title
-    page_icon="📘",
+    page_title="Google Gemini Deep Research Agent By Agenex Labs", # Updated title
+    page_icon="	U+1F9BE",
     layout="wide"
 )
 
